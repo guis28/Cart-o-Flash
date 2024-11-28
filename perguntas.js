@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Psicologia',
     'O que é Ceticismo?',
     'é a dúvida saudável diante da falta de evidencias.'
 )
