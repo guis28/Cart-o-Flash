@@ -12,9 +12,8 @@ criaCartao(
 
 criaCartao(
     'Psicologia',
-    'Qual é a diferença entre Ceticismo e Negação?',
+    'O que é Ceticismo?',
     'Ceticismo é a dúvida saudável diante da falta de evidencias',
-    'Negação é a dúvida intencional diante da esmagadora quantidade de evidências confiáveis'
 )
 
 criaCartao(
