@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Sociologia',
+    'Qual a nacionalidade do sociólogo e filósofo Durkheim?',
+    'Francesa. Nasceu na cidade francesa de Épinal, e faleceu em Paris.',
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital do Brasil?',
-    'A capital do Brasil é a Brasília'
+    'História',
+    'Quem inventou a lâmpada?',
+    'Thomas Edison. Foi inventada em 1879.',
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    '
-    'Oi em ing (RAI)'
+    'Biologia',
+    'Quantos ossos temos no nosso corpo?',
+    '206. O corpo humano tem 206 ossos: 22 na cabeça, 1 no pescoço, 6 no ouvido, 44 no tórax, 7 no abdômen, 62 nos membros inferiores e 64 nos membros inferiores.',
 )
