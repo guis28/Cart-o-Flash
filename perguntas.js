@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Psicologia',
     'O que é Ceticismo?',
-    'Ceticismo é a dúvida saudável diante da falta de evidencias'
+    'Ceticismo é a dúvida saudável diante da falta de evidencias',
 )
 
 criaCartao(
