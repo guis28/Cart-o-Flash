@@ -82,8 +82,8 @@ body {
 }
 
 footer {
-    background-color: black;
-    color: white;
+    background-color: rgba(22, 1, 2, 0.976);
+    color: rgb(236, 226, 226);
     position: fixed;
     bottom: 0;
     width: 100%;
